@@ -1,0 +1,16 @@
+Database macchina
+
+
+id (INT, PRIMARY KEY, AUTO_INCREMENT)
+brand (VARCHAR 50)
+model (VARCHAR 50)
+year (YEAR)
+mileage (INT)
+license_plate (VARCHAR 10)
+fuel_type (VARCHAR 20)
+price (DECIMAL 10,2)
+color (VARCHAR 30)
+transmission (VARCHAR 20)
+description (TEXT)
+created_at (DATETIME)
+updated_at (DATETIME)
