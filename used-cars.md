@@ -1,5 +1,4 @@
-Database macchina
-
+Car DB
 
 id (INT, PRIMARY KEY, AUTO_INCREMENT)
 brand (VARCHAR 50)
