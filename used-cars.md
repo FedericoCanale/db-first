@@ -14,5 +14,5 @@ transmission (VARCHAR 20) NOT NULL
 new_license_holders (TINY INT 0/1) NOT NULL
 description (TEXT) NULL
 year (YEAR) NOT NULL
-created_at (DATETIME) DEFAULT CURRENT_DATE
-updated_at (DATETIME) DEFAULT CURRENT_DATE
+created_at (DATETIME) 
+updated_at (DATETIME) 
